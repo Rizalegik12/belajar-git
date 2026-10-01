@@ -11,3 +11,7 @@ console.log(subtract(5, 3));
 
 const multiplyAndAdd = (a, b, c) => multiply(a, b) + add(b, c);
 console.log(multiplyAndAdd(2, 3, 4)); // Output: 10
+
+const divide = (a, b) => a / b;
+console.log(divide(6, 3));
+
